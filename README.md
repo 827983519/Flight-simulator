@@ -38,8 +38,12 @@ outcome
 ----
 ### Start the plane, and see the change of acceleration as well as the output of washout algorithm
 #### The acceleration of plane
+<img width="300" src=https://github.com/827983519/Flight-simulator/blob/master/accera.bmp>
+#### The pitch computed by washout algorithm
+<img width="300" src=https://github.com/827983519/Flight-simulator/blob/master/pitch.bmp>
+#### The displacement computed by washout algorithm
+<img width="300" src=https://github.com/827983519/Flight-simulator/blob/master/x.bmp>
 
-<img width="500" src=https://github.com/827983519/Flight-simulator/blob/master/1182037841.jpg>
 
 
 
