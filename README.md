@@ -36,7 +36,15 @@ Process
 
 outcome
 ----
-Put MPU6050 on upper platform to caputre attitude. Then compare it to the outcome of washout algorithm.
+### Start the plane, and see the change of acceleration as well as the output of washout algorithm
+#### The acceleration of plane
+
+<img width="500" src=https://github.com/827983519/Flight-simulator/blob/master/1182037841.jpg>
+
+
+
+
+
 
 
 
